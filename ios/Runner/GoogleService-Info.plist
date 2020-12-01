@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>858127895776-c5brtv332vanddd105sqtego9ffuqpc0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.858127895776-c5brtv332vanddd105sqtego9ffuqpc0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBxDWbA57pOhQOTDF6knDvu88i2RZ4rVaU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>858127895776</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.waqar.waqarapp</string>
+	<key>PROJECT_ID</key>
+	<string>waqarapp-645a3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>waqarapp-645a3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:858127895776:ios:0fda537bdc3f608c105485</string>
+	<key>DATABASE_URL</key>
+	<string>https://waqarapp-645a3.firebaseio.com</string>
+</dict>
+</plist>
